@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Woordspel</string>
+    <string name="WoordGame">Woordspel</string>
+    <string name="aantalletters">#letters</string>
+    <string name="aantalAnagrammen">#Anagrammen</string>
+    <string name="speel">Play</string>
+    <string name="erzijngeen">\"there are no \"</string>
+    <string name="voor">\"for \"</string>
+    <string name="letters">\" letters\"</string>
+    <string name="woordLengte">woordLengte</string>
+    <string name="aantalLetters">aantalLetters</string>
+    <string name="woordPatroon">woordPatroon</string>
+    <string name="zoekpatroon">zoekPatroon</string>
+    <string name="bevatLetters">bevatLetters</string>
+    <string name="Uitleg">
+        <h1><b>Zoek:</b></h1>
+        \t\t Deze optie is speciaal voor puzzelaars, kruiswoord, cryptogrammen, scrabble etc.<body text = "blue" bgcolor = "green">
+      U kunt opgeven uit hoeveel letters het gezochte woord bestaat, en een (deel)verzameling letters die in het woord zitten, en
+    tenslotte kunt u nog een patroon aangeven waaraan het woord moet voldoen. Vb. ^S..Z.* => eerste letter S 4e letter een Z of AAS => woord bevat de substring AAS.
+    Voor nadere uitleg over zoekpatronen kunt u op internet zoeken naar "RegEx", oftewel regular expressions.\n
+        Het programma presenteerst dan een lijst met woorden die aan de opgegeven criteria voldoen. Zit er een onbekend woord bij, dan kunt u dit "aantappen" en het programma geeft dan
+        de betekenis van dat woord. Als niks gevonden wordt, dan ligt de oorzaak waarschijlijk erin dat de woordenlijsten die dit programma gebruikt iets uitgebreider zijn dan een normaal woordenboek, omdat ook vervoegingen ed hierin zijn opgenomen. Met het oog op scrabble.\n\n
+        <b>Spel1:</b> \n\t\tDit is geïnspireerd door 2 voor 12, het laatste onderdeel. U geeft aan de lengte van de woorden die u zoekt en hoeveel anagrammen er zijn. U krijgt dan een verzamelijng letters voorgeschoteld, en u moet dan proberen zoveel mogelijk woorden uit deze verzameling letters te construeren.
+        Aan het einde kunt u naar de oplossing vragen.\n\n
+        Vb: 7 letters, 4 anagrammen => EENPRST => PENSTER, PRESENT,SERPENT en STREPEN. \n\n
+        Anagrammen: U geeft aan de lengte van het woord of een bereik, het aanta anagrammen of een bereik, en het programma genereert alle mogelijke woorden die voldoen..\n\n
+        <b>Spel2:</b>\n\t\t U geeft een verzameling letters. De opgave luidt om zoveel mogelijk woorden te genereren uit deze letters, waarbij elke letter meerdere malen mag voorkomen.\n\n
+
+         <h1><b>Spel3:</b></h1> \n\t\t
+        U krijgt een te kiezen aantal letters gepresenteerd, en u moet proberen met deze letters zoveel mogelijk woorden
+        te construeren. U kunt de computer vragen, hoeveel hij (zij?) er gevonden heeft.
+        Om de moeilijkHEIDSGRAAD IETS TE VERHOGEN IS ER OOK NOG de mogelijkheid woorden te zoeken met meer letters.
+        Stel u geeft extra = 1, aantal letters = 3 (a, b ,l)
+        dan vindt de computer : abel baal balk blaf flab leba etc. Aan u de taak zoveel mogelijk woorden te vinden.
+    </body>
+
+    </string>
+    <string name="Uitleg2">
+        <h1><b>Spel3:</b></h1> \n\t\t
+        U krijgt een te kiezen aantal letters gepresenteerd, en u moet proberen met deze letters zoveel mogelijk woorden
+        te construeren. U kunt de computer vragen, hoeveel hij (zij?) er gevonden heeft.
+        Om de moeilijkHEIDSGRAAD IETS TE VERHOGEN IS ER OOK NOG de mogelijkheid woorden te zoeken met meer letter.
+        Stel u geeft extra = 1, aantal letters = 3 (a, b ,l)
+        dan vindt de computer : abel baal balk blaf flab leba etc
+    </string>
+    <string name="Kies">\"Kies \"</string>
+    <string name="gevonden">\" Gevonden \"</string>
+    <string name="Anagram">Anagram</string>
+    <string name="Zoek">Zoek</string>
+    <string name="opnieuw">opnieuw</string>
+    <string name="Game1">Spel1</string>
+</resources>

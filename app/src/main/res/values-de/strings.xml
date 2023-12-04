@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wörterspiel</string>
+    <string name="WoordGame">Wörterspiel</string>
+    <string name="aantalletters">#Buchstaben</string>
+    <string name="aantalAnagrammen">#Anagramme</string>
+    <string name="speel">Spiele</string>
+    <string name="erzijngeen">\"es gibt keine \"</string>
+    <string name="voor">\"für \"</string>
+    <string name="letters">\" Buchstaben\"</string>
+    <string name="woordLengte">Wortlänge</string>
+    <string name="aantalLetters">Zahl der Buchstaben</string>
+    <string name="woordPatroon">Wortmuster</string>
+    <string name="zoekpatroon">Suchmuster</string>
+    <string name="bevatLetters">enthält </string>
+    <string name="Uitleg">Suchen: Diese Option ist gedacht für diejenigen die gerne Puzzles lösen. Kreuzworträtsel, Kryptogramme, Scrabble usw.
+    Sie können angeben die Zahl der Buchstaben die im Wort enthalten sind, eine Sammlung von Buchstaben von denen Sie wissen daß diese im
+    Wort drin sind, und ein Muster das die Struktur des Wortes festlegt. Hier ein Paar einfache Beispiele:
+        ^S..Z  => Alle Wörter die anfangen mit S und an Steele 4 ein Z haben.
+         .*DE$ => Alle möglichen Wörter die enden mit DE.
+    Mehr dazu finden Sie im Netz, wenn sie nach RegEx (Regular Expressions)suchen.
+    Das Programm wird dann eine Liste mit Wörter zurückgeben die diesen Kriterien genügen. Sehen sie ein Wort das Sie nicht kennen, einfach antippen,
+    und das Programm sucht in Internet nach der Bedeutung. Manchmal wird nichts gefunden, der Grund dafür is meistens, das dieses Programm eine Wörterliste
+    benutzt die etwas umfangreicher ist als ein normales Lexikon. Es enthält zB nicht nur Verben, sondern auch die Konjugationen unsw.\n
+    Spiel1: In diesem Spiel müssen Sie ein Wort suchen. Sie können die Länge des Wortes angeben, und die Zahl der Anagramme. Das Programm liefert ein Menge von Buchstaben,
+        und Sie müssen dann versuchen die Wörter zu finden. Wenn sie für die Länge des Wortes 0 angeben, nimmt das Programm eine willkürlich Länge.</string>
+
+
+    Anagramme:
+    <string name="Kies">Wähle </string>
+    <string name="gevonden">\" Gefunden \"</string>
+    <string name="Anagram">Anagramme</string>
+    <string name="Zoek">Suchen</string>
+    <string name="opnieuw">Nochmal</string>
+    <string name="Game1">Spiel1</string>
+</resources>

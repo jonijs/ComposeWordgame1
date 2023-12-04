@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ComposeWordgame1</string>
+    <string name="WoordGame">WordGame</string>
+    <string name="aantalletters">#letters</string>
+    <string name="aantalAnagrammen">#Anagrammen</string>
+    <string name="speel">Play</string>
+    <string name="erzijngeen">\"there are no \"</string>
+    <string name="voor">for </string>
+    <string name="letters">\" letters\"</string>
+    <string name="woordLengte">woordLengte</string>
+    <string name="aantalLetters">aantalLetters</string>
+    <string name="woordPatroon">woordPatroon</string>
+    <string name="zoekpatroon">zoekPatroon</string>
+    <string name="bevatLetters">bevatLetters</string>
+    <string name="Uitleg">Hier wat uitleg</string>
+    <string name="Uitleg2">Hier wat meer uitleg</string>
+    <string name="Kies">\"Kies \"</string>
+    <string name="gevonden">\" Gevonden \"</string>
+    <string name="Zoek">Zoek</string>
+    <string name="Anagram">Anagram</string>
+    <string name="opnieuw">opnieuw</string>
+    <string name="Game1">Spel1</string>
+
+</resources>

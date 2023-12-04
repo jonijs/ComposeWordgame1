@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeu de mots</string>
+    <string name="WoordGame">Jeu des mots</string>
+    <string name="aantalletters">#lettres</string>
+    <string name="aantalAnagrammen">#Anagrams</string>
+    <string name="speel">Jouer</string>
+    <string name="erzijngeen">\"Il n\'y a pas de \"</string>
+    <string name="voor"> \"pour \"</string>
+    <string name="letters">\" lettres\"</string>
+    <string name="woordLengte">longueur du mot</string>
+    <string name="aantalLetters">#lettres</string>
+    <string name="woordPatroon">schema du mot</string>
+    <string name="zoekpatroon">schema recherche</string>
+    <string name="bevatLetters">contient lettres</string>
+    <string name="Uitleg">Recherche: Cette option est particulièrement destinée aux jeux de réflexion, aux mots croisés,
+aux cryptogrammes, au scrabble, etc. Vous pouvez spécifier le nombre de lettres dont est composé le mot recherché, ainsi qu \'un
+(sous)ensemble de lettres contenues dans le mot, et enfin, vous pouvez spécifier un modèle auquel le mot doit répondre. par exemple
+^S..Z.* => première lettre S 4ème lettre a Z ou AAS => le mot contient la sous-chaîne AAS.
+Pour des explications plus détaillées sur les modèles de recherche, recherchez sur Internet  RegEx  ou expressions régulières.
+Ensuite le App présente une liste des mots répondant aux critères spécifiés. Si il y a un que vous ne conaissent pas, vous pouvez le taper et le
+App vous donnera ce que le mot signifie. Si rien est trouvé, la cause est probablement que les listes de mots utilisées par ce App sont un peu plus
+étendues que un dictionnaire normal, car les conjugaisons, etc. sont également incluses (en vue de Scrabble).
+Jeu1: Dans ce jeu le but est de trouver des mots. Vous indiquez la longueur des mots que vous recherchez et le nombre d\'anagrammes.
+Une collection de lettres vous sera alors présentée et vous devrez essayer de construire autant de mots que possible à partir de cette collection
+de lettres. Pour chaque mot il y a deux lignes. La premiere ligne contient des lettres triés alfabétiquement. Le deuxième ligne est pour remplir
+ce que vous pensent est la solution.
+Si on selecte une lettre du premier ligne, cette lettre sera rempli a la bonne position dans la deuxième ligne.
+</string>
+    <string name="Kies">\"choisir \"</string>
+    <string name="gevonden">\" trouvé \"</string>
+    <string name="Anagram">Anagram</string>
+    <string name="Zoek">chercher</string>
+    <string name="opnieuw">encore</string>
+    <string name="Game1">Jeu1</string>
+</resources>
